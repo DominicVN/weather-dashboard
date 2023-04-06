@@ -1,4 +1,4 @@
-# 06-Server-Side-APIs-Weather-Dashboard
+# Weather-Dashboard
 
 A Weather Dashboard
 
@@ -12,6 +12,6 @@ Below is a screen shot of the weather dashboard:
 
 Below is a link to the site:
 
-https://codyg-2021.github.io/06-Server-Side-APIs-Weather-Dashboard/
+https://dominicvn.github.io/weather-dashboard/
 
-![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)
+
